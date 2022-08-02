@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.172,C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit4.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Delete.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit4.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Delete.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Project3.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\DeleteOrd.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit3.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Login.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit3.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Login.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit4.dfm</Transaction>
+    <Transaction>2022.03.04 14:47:36.095,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZipForge.pas</Transaction>
+    <Transaction>2022.03.04 14:53:37.505,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZipForge.pas=</Transaction>
+    <Transaction>2022.03.04 15:03:02.073,=C:\Users\Elewlian\Desktop\DIUcl\Source\DIUcl.pas</Transaction>
+    <Transaction>2022.03.04 15:04:17.627,C:\Users\Elewlian\Desktop\DIUcl\Source\DIUcl.pas=</Transaction>
+    <Transaction>2022.03.04 15:12:12.639,=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\ZLibAdvTools.pas</Transaction>
+    <Transaction>2022.03.04 15:14:32.950,C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\ZLibAdvTools.pas=</Transaction>
+    <Transaction>2022.03.04 16:25:52.954,=C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\mainmenu.pas</Transaction>
+    <Transaction>2022.03.04 16:26:01.624,C:\Users\Elewlian\Documents\Embarcadero\Studio\umag2\mainmenu.pas=</Transaction>
+    <Transaction>2022.03.04 17:24:15.749,=C:\Users\Elewlian\Documents\Embarcadero\Studio\deleteorders\Unit1.pas</Transaction>
+    <Transaction>2022.03.05 09:23:17.446,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZipForge.pas</Transaction>
+    <Transaction>2022.03.05 09:31:35.497,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZFFolderDialog.pas</Transaction>
+    <Transaction>2022.03.05 09:32:32.257,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\USysUtils.pas</Transaction>
+    <Transaction>2022.03.05 09:32:56.465,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZFpbkdf_2.pas</Transaction>
+    <Transaction>2022.03.05 09:34:02.898,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\UWideStrUtils.pas</Transaction>
+    <Transaction>2022.03.05 09:34:21.051,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\UWindows.pas</Transaction>
+    <Transaction>2022.03.05 09:34:42.805,=C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\USystem.pas</Transaction>
+    <Transaction>2022.03.05 09:42:31.774,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\USystem.pas=</Transaction>
+    <Transaction>2022.03.05 09:42:36.032,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\USysUtils.pas=</Transaction>
+    <Transaction>2022.03.05 09:42:40.318,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\UWideStrUtils.pas=</Transaction>
+    <Transaction>2022.03.05 09:42:44.306,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\UWindows.pas=</Transaction>
+    <Transaction>2022.03.05 09:42:47.169,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZFFolderDialog.pas=</Transaction>
+    <Transaction>2022.03.05 09:42:49.731,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZFpbkdf_2.pas=</Transaction>
+    <Transaction>2022.03.05 09:42:52.233,C:\Users\Elewlian\Desktop\ZipForge_v6.92_for_Delphi_10.3_Rio_Commercial_Edition\Source and Lib\ZipForge\Source\ZipForge.pas=</Transaction>
+    <Transaction>2022.03.05 10:24:31.093,=C:\Users\Elewlian\Desktop\createepl\Unit2.pas</Transaction>
+    <Transaction>2022.03.05 10:30:00.699,C:\Users\Elewlian\Desktop\createepl\Unit2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
